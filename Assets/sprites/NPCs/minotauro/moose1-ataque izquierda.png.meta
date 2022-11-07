@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 31c4e9f502953a5499fa3487c8130040
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 69
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1aa6273cbc1e044be3e8bbe45d2ae7
+      internalID: 1158526211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 69
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df79bdcaa345548867959100bd2f89
+      internalID: 986197046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 69
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6e7f986ffbaf24e835d162ff433004
+      internalID: 426267220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_3
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 69
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12486d3007af240418a28dc49a367f9a
+      internalID: -114194447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_4
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 69
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6526f04d57cc6d468e45e6c1cd8dcb6
+      internalID: -1715994597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_5
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 69
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1bb2ddaa08e964a9d6d5df764970e7
+      internalID: -1203205933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_6
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 69
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67087ce660cbd4b498ce0244e3f88d4f
+      internalID: 1822703459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_7
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 69
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cd68417ad0d3a4f9a578139778d1bc
+      internalID: 1212845647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_8
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 69
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45994032080d88347a6519818234d96c
+      internalID: -1761812577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_9
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 22
+        width: 181
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db94374c8251804a8c43f709dd29274
+      internalID: -1851442439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_10
+      rect:
+        serializedVersion: 2
+        x: 4831
+        y: 17
+        width: 181
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c114d268d26efb47aebbb9927d66ac4
+      internalID: 1717954861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_17
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 45
+        width: 169
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029255b2cbd26a043af10153c25fc207
+      internalID: 1282242351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_18
+      rect:
+        serializedVersion: 2
+        x: 7414
+        y: 69
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be50ed28b8535f4d8af7e402274af50
+      internalID: 1754343102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_19
+      rect:
+        serializedVersion: 2
+        x: 7766
+        y: 69
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95266be4aecdad44b18c463885000b3
+      internalID: -1813680133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_20
+      rect:
+        serializedVersion: 2
+        x: 8102
+        y: 69
+        width: 122
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f931e6abb01ac447bad320d31e39d3e
+      internalID: -979754863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_21
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 69
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1becb1af4d7864699f0fc4ac4d1f22
+      internalID: -1006250368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_22
+      rect:
+        serializedVersion: 2
+        x: 8794
+        y: 69
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ede7087f46354f930cc747a24c4d0
+      internalID: -1795753951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_23
+      rect:
+        serializedVersion: 2
+        x: 9144
+        y: 69
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b471de7f71d546a756b2c8ba4d7b2
+      internalID: 1712763443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_24
+      rect:
+        serializedVersion: 2
+        x: 9493
+        y: 69
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85103bbbcc9b648a9ff0781f8d93d0
+      internalID: -2101428385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_25
+      rect:
+        serializedVersion: 2
+        x: 9847
+        y: 69
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052dcf330bb646f4097df9dd0c3eb6a3
+      internalID: 102477104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_26
+      rect:
+        serializedVersion: 2
+        x: 10186
+        y: 69
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454eb90f251516f4394a72727cc14352
+      internalID: 959906670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_35
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 19
+        width: 186
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881ecc7052b498479e293ab9000172f
+      internalID: -1429368832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_36
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 69
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5280a73ae4a794b8d1b98a6e82dd1a
+      internalID: 2115061751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_37
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 69
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a58fa54baaabf4083787be1f3ddf66
+      internalID: 1221087460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_38
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 69
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7040bf322455280428ee489e85038296
+      internalID: 1993597035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_41
+      rect:
+        serializedVersion: 2
+        x: 5179
+        y: 13
+        width: 179
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e725697cf7bafd049b4fe3733b389829
+      internalID: -2009963402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_43
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 17
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf21cc05e426743a03d6e43277f9dc
+      internalID: -1580379291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_47
+      rect:
+        serializedVersion: 2
+        x: 5873
+        y: 16
+        width: 179
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb666a9dfefe5340a13e45fdb2dc321
+      internalID: 914008180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_49
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 67
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200f87b2d318de478044bb0a8302aa3
+      internalID: 332504007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose1-ataque izquierda_52
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 17
+        width: 187
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffba4207458664993d99f1cf479013
+      internalID: -1038881764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      moose1-ataque izquierda_108: -2052723205
+      moose1-ataque izquierda_154: -1433266724
+      moose1-ataque izquierda_152: 800105969
+      moose1-ataque izquierda_70: 1881680250
+      moose1-ataque izquierda_97: -1260299322
+      moose1-ataque izquierda_32: -1256358495
+      moose1-ataque izquierda_2: 426267220
+      moose1-ataque izquierda_128: 186587198
+      moose1-ataque izquierda_121: -2139208457
+      moose1-ataque izquierda_35: -1429368832
+      moose1-ataque izquierda_118: 45726596
+      moose1-ataque izquierda_153: 1995818976
+      moose1-ataque izquierda_59: -184197855
+      moose1-ataque izquierda_85: -577856155
+      moose1-ataque izquierda_122: -11245908
+      moose1-ataque izquierda_123: 2009789618
+      moose1-ataque izquierda_3: -114194447
+      moose1-ataque izquierda_17: 1282242351
+      moose1-ataque izquierda_81: -270934903
+      moose1-ataque izquierda_135: -2116783361
+      moose1-ataque izquierda_156: 772377579
+      moose1-ataque izquierda_107: 1790175742
+      moose1-ataque izquierda_58: 876659106
+      moose1-ataque izquierda_29: -1045614924
+      moose1-ataque izquierda_75: 1985358661
+      moose1-ataque izquierda_65: 797754805
+      moose1-ataque izquierda_33: 678021821
+      moose1-ataque izquierda_18: 1754343102
+      moose1-ataque izquierda_31: 1860415432
+      moose1-ataque izquierda_52: -1038881764
+      moose1-ataque izquierda_93: 169747883
+      moose1-ataque izquierda_76: -198374416
+      moose1-ataque izquierda_21: -1006250368
+      moose1-ataque izquierda_141: 2006200867
+      moose1-ataque izquierda_150: -40222465
+      moose1-ataque izquierda_90: -1575269525
+      moose1-ataque izquierda_149: 1209964222
+      moose1-ataque izquierda_16: 1317682885
+      moose1-ataque izquierda_77: -1638550090
+      moose1-ataque izquierda_9: -1851442439
+      moose1-ataque izquierda_48: 859766848
+      moose1-ataque izquierda_37: 1221087460
+      moose1-ataque izquierda_23: 1712763443
+      moose1-ataque izquierda_11: 1017781611
+      moose1-ataque izquierda_96: -1110050176
+      moose1-ataque izquierda_42: -1890855444
+      moose1-ataque izquierda_28: -490069645
+      moose1-ataque izquierda_105: -84768140
+      moose1-ataque izquierda_38: 1993597035
+      moose1-ataque izquierda_13: 1874243752
+      moose1-ataque izquierda_43: -1580379291
+      moose1-ataque izquierda_98: -1931468949
+      moose1-ataque izquierda_117: -32715797
+      moose1-ataque izquierda_111: 298879244
+      moose1-ataque izquierda_55: 330315447
+      moose1-ataque izquierda_89: 2025036651
+      moose1-ataque izquierda_100: -2119606269
+      moose1-ataque izquierda_116: -956909968
+      moose1-ataque izquierda_62: 431081808
+      moose1-ataque izquierda_112: -832971165
+      moose1-ataque izquierda_22: -1795753951
+      moose1-ataque izquierda_24: -2101428385
+      moose1-ataque izquierda_79: -267743280
+      moose1-ataque izquierda_15: -1857790901
+      moose1-ataque izquierda_140: -1056973763
+      moose1-ataque izquierda_30: 307327166
+      moose1-ataque izquierda_155: 1312940949
+      moose1-ataque izquierda_88: -1345245391
+      moose1-ataque izquierda_56: 243000245
+      moose1-ataque izquierda_66: 1630865893
+      moose1-ataque izquierda_72: 1195589571
+      moose1-ataque izquierda_92: -1188901847
+      moose1-ataque izquierda_47: 914008180
+      moose1-ataque izquierda_120: -1251939927
+      moose1-ataque izquierda_61: -155067258
+      moose1-ataque izquierda_5: -1203205933
+      moose1-ataque izquierda_63: 343713593
+      moose1-ataque izquierda_7: 1212845647
+      moose1-ataque izquierda_54: 1314649589
+      moose1-ataque izquierda_114: -1038277908
+      moose1-ataque izquierda_71: 1207540024
+      moose1-ataque izquierda_49: 332504007
+      moose1-ataque izquierda_129: -1795052081
+      moose1-ataque izquierda_45: -228938125
+      moose1-ataque izquierda_83: 191856255
+      moose1-ataque izquierda_82: 761324152
+      moose1-ataque izquierda_158: 1793101129
+      moose1-ataque izquierda_136: 1750388904
+      moose1-ataque izquierda_113: 1802777972
+      moose1-ataque izquierda_95: 715711284
+      moose1-ataque izquierda_4: -1715994597
+      moose1-ataque izquierda_46: -388536030
+      moose1-ataque izquierda_60: -125358571
+      moose1-ataque izquierda_36: 2115061751
+      moose1-ataque izquierda_148: -918239887
+      moose1-ataque izquierda_143: -1737681931
+      moose1-ataque izquierda_102: 535746757
+      moose1-ataque izquierda_41: -2009963402
+      moose1-ataque izquierda_14: -1268238549
+      moose1-ataque izquierda_124: 928179872
+      moose1-ataque izquierda_103: -1669793369
+      moose1-ataque izquierda_68: -1114804518
+      moose1-ataque izquierda_40: 647465883
+      moose1-ataque izquierda_19: -1813680133
+      moose1-ataque izquierda_53: 1001052627
+      moose1-ataque izquierda_64: 1695204387
+      moose1-ataque izquierda_145: -1188058692
+      moose1-ataque izquierda_86: 712940074
+      moose1-ataque izquierda_10: 1717954861
+      moose1-ataque izquierda_80: 404979795
+      moose1-ataque izquierda_50: 1061552216
+      moose1-ataque izquierda_101: -2032215991
+      moose1-ataque izquierda_138: -2146859237
+      moose1-ataque izquierda_142: -1198865868
+      moose1-ataque izquierda_131: -2116246953
+      moose1-ataque izquierda_146: 266178373
+      moose1-ataque izquierda_8: -1761812577
+      moose1-ataque izquierda_39: -1514773997
+      moose1-ataque izquierda_27: 1702316795
+      moose1-ataque izquierda_137: -1047628887
+      moose1-ataque izquierda_25: 102477104
+      moose1-ataque izquierda_94: 2005313362
+      moose1-ataque izquierda_139: -1228872206
+      moose1-ataque izquierda_1: 986197046
+      moose1-ataque izquierda_67: -176566949
+      moose1-ataque izquierda_125: 527058032
+      moose1-ataque izquierda_109: 1065107691
+      moose1-ataque izquierda_127: -1710337559
+      moose1-ataque izquierda_130: 1160471274
+      moose1-ataque izquierda_26: 959906670
+      moose1-ataque izquierda_51: 493079426
+      moose1-ataque izquierda_144: -1765634694
+      moose1-ataque izquierda_110: -108260189
+      moose1-ataque izquierda_73: 185786359
+      moose1-ataque izquierda_119: -2024613493
+      moose1-ataque izquierda_0: 1158526211
+      moose1-ataque izquierda_133: -1696969372
+      moose1-ataque izquierda_106: -425416702
+      moose1-ataque izquierda_20: -979754863
+      moose1-ataque izquierda_99: 1168764963
+      moose1-ataque izquierda_12: -1346031518
+      moose1-ataque izquierda_104: 1449212330
+      moose1-ataque izquierda_91: -1157493547
+      moose1-ataque izquierda_151: 457292133
+      moose1-ataque izquierda_84: -1637436134
+      moose1-ataque izquierda_147: 968075338
+      moose1-ataque izquierda_157: -1962329079
+      moose1-ataque izquierda_87: -1851259894
+      moose1-ataque izquierda_134: -1603550372
+      moose1-ataque izquierda_57: -1624318331
+      moose1-ataque izquierda_115: -733683104
+      moose1-ataque izquierda_69: 1875575319
+      moose1-ataque izquierda_126: -257203089
+      moose1-ataque izquierda_6: 1822703459
+      moose1-ataque izquierda_44: -1436667712
+      moose1-ataque izquierda_132: 192867481
+      moose1-ataque izquierda_78: -790151658
+      moose1-ataque izquierda_74: 1887303436
+      moose1-ataque izquierda_34: 799685542
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
