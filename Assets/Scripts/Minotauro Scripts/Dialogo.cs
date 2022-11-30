@@ -18,7 +18,7 @@ public class Dialogo : MonoBehaviour
 
     void Update()
     {
-        if(isPlayerInRange && Input.GetButtonDown("Fire1"))
+        if(isPlayerInRange && Input.GetKeyDown(KeyCode.E))
         {
             if(!didDialogueStart)
             {

@@ -22,6 +22,25 @@ public class MovimientoJugador : MonoBehaviour
     {
         float movimientoX = Input.GetAxisRaw("Horizontal");
         float movimientoY = Input.GetAxisRaw("Vertical");
+
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            this.velocidadMovimiento = 5;
+            moveInput = new Vector2(Input.GetAxisRaw("Horizontal"),Input.GetAxisRaw("Vertical")).normalized;
+
+        }else if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            this.velocidadMovimiento = 3;
+            moveInput = new Vector2(Input.GetAxisRaw("Horizontal"),Input.GetAxisRaw("Vertical")).normalized;
+        }
+
+        
+        if (movimientoX != 0 || movimientoY != 0)
+        {
+            playerAnimator.SetFloat("UltimoX", movimientoX);
+            playerAnimator.SetFloat("UltimoY", movimientoY);
+        }
+
         moveInput = new Vector2(Input.GetAxisRaw("Horizontal"),Input.GetAxisRaw("Vertical")).normalized;
 
         playerAnimator.SetFloat("Horizontal", movimientoX);

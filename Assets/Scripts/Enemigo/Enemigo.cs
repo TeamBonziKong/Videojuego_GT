@@ -17,6 +17,11 @@ public class Enemigo : MonoBehaviour
 
     private void Update() {
         Comportamientos();
+        if (speed_walk != 0)
+        {
+            animator.SetFloat("UltimoX", direccion);
+            
+        }
     }
 
     private void Start() 
