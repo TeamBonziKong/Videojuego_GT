@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: d0b8ae3fe6ae24141a41275eb6c485ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 835
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cba1ca0bdb3c89419d94bfde62c4267
+      internalID: 1996927669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 835
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad6bc9f19469c0459fd3d546fecb06d
+      internalID: 707595045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 835
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a56256078e2e4f9051439060eb4af
+      internalID: 474073596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 834
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2624e7b749807544a6c15ab9e06cc17
+      internalID: 247268044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_4
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 833
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d2e19424c8dcf42adfaa144c4db2fd
+      internalID: 1982764955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_5
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 833
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b636c3d2e64cc42b039401f2a0c254
+      internalID: -1292935335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_6
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 835
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89785cedee6a9468b43134f3440bfc
+      internalID: -568427865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_7
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 835
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e91bc9b02049c349b6593ec3d93978d
+      internalID: -1911312899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 644
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e509f39c102943a9fa14f0dc3adfb
+      internalID: -615080766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 644
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa124c5f72be34c89906616bfe8dd8
+      internalID: -1117054622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 644
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb22dfc7d6b53249ad6ec70a8327dfd
+      internalID: 1586427654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 644
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5aa93201b1ba94aa3c94c087528a7c
+      internalID: 818978377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_12
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 644
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e75923e6282c34abd2f5024f24a302
+      internalID: 1832391105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_13
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 644
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e76dcee690a74599b1bded45286ae
+      internalID: 331070796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_14
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 644
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812d04a97d6e674dac9e7a8dadad35b
+      internalID: 806132532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_15
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 644
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c6f217f127c84fa23662d84011f9c
+      internalID: -1314440345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 451
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856076b4179a59346bda5d09b242acbe
+      internalID: -333605684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 451
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292cfc48a0462a4084a0663e1aceda0
+      internalID: -577112534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 451
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895a65e3549a4d418bd87e6fc6f9180
+      internalID: 1672678569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_19
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 451
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9bca8082a749b4ca5840e1cbae5a99
+      internalID: 701014097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_20
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 451
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbdc0363630ba34f9339a6d819e31be
+      internalID: 1285932561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_21
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 451
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f608115d654f945b5df8b1b478954a
+      internalID: -1504753347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 451
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2452ac0d6541c84eb8b5cd7bf2fef30
+      internalID: -979111242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_23
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 444
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5a8c5e65e78ca4698bf45e7cf396ff
+      internalID: 1940650654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_24
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 433
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223fd4b8ba65224eb85078174ab97c0
+      internalID: -1120374826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_26
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 426
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7395bca40420194994e23723f752287
+      internalID: 2094704605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_28
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 427
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a4194203cee34eb86de542546d300
+      internalID: 1441245467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_29
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 429
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07b2f467b529b4b8495db09746c015
+      internalID: -363944424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_30
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 451
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707da45d23e68e4c9828e158e8e0bb7
+      internalID: 1667042067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_31
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 451
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56272a8c2ad37f444983d1d46b42178d
+      internalID: 1221528225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_32
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 451
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202d75427c126f14188a46d120abd429
+      internalID: 1159975642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_33
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 450
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad39f4abfe5c35b4680beca08dbb4d51
+      internalID: -1080039925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_34
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 451
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc565796a38920459f1c1a7286c50e2
+      internalID: 871920486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 259
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ca209275e71941836ea735edef25f
+      internalID: -1450747311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075016703a016e643a6b5bba1e9d7246
+      internalID: -1347313627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_41
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 259
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4782de3211f79024989cb6e37f8c32d9
+      internalID: -1837244177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_42
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 259
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada7322ee9613f419535a2976dfc220
+      internalID: 621006172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_43
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 259
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ebfe4010b3ba943bb108d3d86d593b
+      internalID: 1432395900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_44
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 259
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46fcb463a4222f48b8fa2c105f84fc7
+      internalID: -117403868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_45
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 259
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a56928fa3f7634fa8520d9691d0ba3
+      internalID: 1478723019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_46
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 259
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33289612e306b14488407d40e528d1bc
+      internalID: -738812249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_47
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 259
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc50c4648574fb4f9b642190642057d
+      internalID: -1122978889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_48
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 258
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727816e91d2e953449a9dfc0e654e687
+      internalID: -1005287216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_49
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 259
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fcedbf1406b904dbf1683a4a70d08b
+      internalID: 1871233172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_50
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 259
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df900d6e42da7dc41b673a2467c71293
+      internalID: 751067198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b4e203a831cb4a8106a5381523a49
+      internalID: 1624848406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 74
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6c9cf6a2525e4fa0c2f65ad8b48c8
+      internalID: 369318393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 62
+        width: 125
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9577421807a4bb46aeb7c9921810764
+      internalID: -1897733736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_56
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 59
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00821bf708728b489d09d21b0be362f
+      internalID: 559082026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_57
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 45
+        width: 133
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7100db43c3e1b3c4da8247f84994ad6c
+      internalID: 164149082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_61
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 34
+        width: 133
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e627cf60da911984aaad784a3469f43c
+      internalID: -542218734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_62
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 33
+        width: 135
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed3d3719cec7544490dd95c957d3f8c
+      internalID: -2050526722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_63
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 34
+        width: 134
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df19146234aa9e40999fd877b053ed4
+      internalID: 133506507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_64
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 30
+        width: 139
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7314298c1b754f42aeda9adf2750496
+      internalID: 1147499647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_65
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 34
+        width: 134
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274fe5e1c8cb264bbccc650a2c0e6bc
+      internalID: -1221217507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_66
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 34
+        width: 136
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0320a90ecb11444958bc75823576c4
+      internalID: -556884876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_67
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 35
+        width: 134
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba4f154bb76524193a9dc5de80a83d
+      internalID: 1018959222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone-golem-all animations-224x192_85
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 33
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713785bb0b22fb749a8b0c64b614f90e
+      internalID: -1498203499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stone-golem-all animations-224x192_40: -1347313627
+      Stone-golem-all animations-224x192_120: 544988713
+      Stone-golem-all animations-224x192_114: -35544382
+      Stone-golem-all animations-224x192_50: 751067198
+      Stone-golem-all animations-224x192_119: -1399375211
+      Stone-golem-all animations-224x192_90: 439295237
+      Stone-golem-all animations-224x192_108: -1031321235
+      Stone-golem-all animations-224x192_71: 578992070
+      Stone-golem-all animations-224x192_41: -1837244177
+      Stone-golem-all animations-224x192_3: 247268044
+      Stone-golem-all animations-224x192_74: 1162160241
+      Stone-golem-all animations-224x192_128: -726519822
+      Stone-golem-all animations-224x192_53: -1992203802
+      Stone-golem-all animations-224x192_78: -201511550
+      Stone-golem-all animations-224x192_94: -818376174
+      Stone-golem-all animations-224x192_34: 871920486
+      Stone-golem-all animations-224x192_100: -1982475635
+      Stone-golem-all animations-224x192_82: -360634230
+      Stone-golem-all animations-224x192_87: -465188957
+      Stone-golem-all animations-224x192_37: -1297609179
+      Stone-golem-all animations-224x192_7: -1911312899
+      Stone-golem-all animations-224x192_27: 535756578
+      Stone-golem-all animations-224x192_117: 1178803649
+      Stone-golem-all animations-224x192_20: 1285932561
+      Stone-golem-all animations-224x192_29: -363944424
+      Stone-golem-all animations-224x192_57: 164149082
+      Stone-golem-all animations-224x192_2: 474073596
+      Stone-golem-all animations-224x192_24: -1120374826
+      Stone-golem-all animations-224x192_93: 1441404356
+      Stone-golem-all animations-224x192_8: -615080766
+      Stone-golem-all animations-224x192_88: -640012258
+      Stone-golem-all animations-224x192_96: 1610163071
+      Stone-golem-all animations-224x192_104: 1678392987
+      Stone-golem-all animations-224x192_4: 1982764955
+      Stone-golem-all animations-224x192_89: 1152824808
+      Stone-golem-all animations-224x192_44: -117403868
+      Stone-golem-all animations-224x192_107: 97529403
+      Stone-golem-all animations-224x192_109: -2146154523
+      Stone-golem-all animations-224x192_122: 853075787
+      Stone-golem-all animations-224x192_51: 1624848406
+      Stone-golem-all animations-224x192_92: -114131937
+      Stone-golem-all animations-224x192_32: 1159975642
+      Stone-golem-all animations-224x192_124: 2143085377
+      Stone-golem-all animations-224x192_54: 368500611
+      Stone-golem-all animations-224x192_23: 1940650654
+      Stone-golem-all animations-224x192_1: 707595045
+      Stone-golem-all animations-224x192_26: 2094704605
+      Stone-golem-all animations-224x192_141: -934343656
+      Stone-golem-all animations-224x192_38: 466260910
+      Stone-golem-all animations-224x192_84: -2131443918
+      Stone-golem-all animations-224x192_129: -2092917791
+      Stone-golem-all animations-224x192_61: -542218734
+      Stone-golem-all animations-224x192_36: 712273969
+      Stone-golem-all animations-224x192_118: 328608049
+      Stone-golem-all animations-224x192_39: -1450747311
+      Stone-golem-all animations-224x192_136: 990187356
+      Stone-golem-all animations-224x192_62: -2050526722
+      Stone-golem-all animations-224x192_35: -178836405
+      Stone-golem-all animations-224x192_112: 649306666
+      Stone-golem-all animations-224x192_125: 1743912333
+      Stone-golem-all animations-224x192_135: 1683881086
+      Stone-golem-all animations-224x192_77: -1179080827
+      Stone-golem-all animations-224x192_66: -556884876
+      Stone-golem-all animations-224x192_67: 1018959222
+      Stone-golem-all animations-224x192_12: 1832391105
+      Stone-golem-all animations-224x192_110: 1420306337
+      Stone-golem-all animations-224x192_121: -17411770
+      Stone-golem-all animations-224x192_25: -1752505193
+      Stone-golem-all animations-224x192_9: -1117054622
+      Stone-golem-all animations-224x192_91: 1681849813
+      Stone-golem-all animations-224x192_13: 331070796
+      Stone-golem-all animations-224x192_0: 1996927669
+      Stone-golem-all animations-224x192_30: 1667042067
+      Stone-golem-all animations-224x192_81: 731086525
+      Stone-golem-all animations-224x192_18: 1672678569
+      Stone-golem-all animations-224x192_138: 2137608967
+      Stone-golem-all animations-224x192_139: -65500207
+      Stone-golem-all animations-224x192_133: 39063881
+      Stone-golem-all animations-224x192_86: -870550716
+      Stone-golem-all animations-224x192_142: -769563115
+      Stone-golem-all animations-224x192_63: 133506507
+      Stone-golem-all animations-224x192_68: -1665185338
+      Stone-golem-all animations-224x192_52: 369318393
+      Stone-golem-all animations-224x192_58: 963776181
+      Stone-golem-all animations-224x192_22: -979111242
+      Stone-golem-all animations-224x192_80: -28406536
+      Stone-golem-all animations-224x192_10: 1586427654
+      Stone-golem-all animations-224x192_43: 1432395900
+      Stone-golem-all animations-224x192_131: 2074222626
+      Stone-golem-all animations-224x192_64: 1147499647
+      Stone-golem-all animations-224x192_97: -531509104
+      Stone-golem-all animations-224x192_103: 1925848615
+      Stone-golem-all animations-224x192_106: 1015531447
+      Stone-golem-all animations-224x192_113: 1541206865
+      Stone-golem-all animations-224x192_60: -147067061
+      Stone-golem-all animations-224x192_45: 1478723019
+      Stone-golem-all animations-224x192_102: -194391871
+      Stone-golem-all animations-224x192_14: 806132532
+      Stone-golem-all animations-224x192_73: 2015697914
+      Stone-golem-all animations-224x192_49: 1871233172
+      Stone-golem-all animations-224x192_65: -1221217507
+      Stone-golem-all animations-224x192_115: 181856748
+      Stone-golem-all animations-224x192_70: -1709263898
+      Stone-golem-all animations-224x192_105: 649690401
+      Stone-golem-all animations-224x192_19: 701014097
+      Stone-golem-all animations-224x192_33: -1080039925
+      Stone-golem-all animations-224x192_134: -1378368357
+      Stone-golem-all animations-224x192_95: -2061967513
+      Stone-golem-all animations-224x192_123: 1194878972
+      Stone-golem-all animations-224x192_46: -738812249
+      Stone-golem-all animations-224x192_132: 1293122494
+      Stone-golem-all animations-224x192_130: -252762830
+      Stone-golem-all animations-224x192_143: 857809375
+      Stone-golem-all animations-224x192_55: -1897733736
+      Stone-golem-all animations-224x192_16: -333605684
+      Stone-golem-all animations-224x192_31: 1221528225
+      Stone-golem-all animations-224x192_140: -1256826135
+      Stone-golem-all animations-224x192_5: -1292935335
+      Stone-golem-all animations-224x192_28: 1441245467
+      Stone-golem-all animations-224x192_21: -1504753347
+      Stone-golem-all animations-224x192_145: -1851169088
+      Stone-golem-all animations-224x192_83: -1846891215
+      Stone-golem-all animations-224x192_116: 909263669
+      Stone-golem-all animations-224x192_42: 621006172
+      Stone-golem-all animations-224x192_75: 1825417189
+      Stone-golem-all animations-224x192_47: -1122978889
+      Stone-golem-all animations-224x192_69: -1052749286
+      Stone-golem-all animations-224x192_11: 818978377
+      Stone-golem-all animations-224x192_111: 477997705
+      Stone-golem-all animations-224x192_76: 186154057
+      Stone-golem-all animations-224x192_137: -439719908
+      Stone-golem-all animations-224x192_144: -1377228298
+      Stone-golem-all animations-224x192_56: 559082026
+      Stone-golem-all animations-224x192_101: -1811712637
+      Stone-golem-all animations-224x192_17: -577112534
+      Stone-golem-all animations-224x192_85: -1498203499
+      Stone-golem-all animations-224x192_59: -1743161306
+      Stone-golem-all animations-224x192_15: -1314440345
+      Stone-golem-all animations-224x192_79: 247918509
+      Stone-golem-all animations-224x192_98: 202366792
+      Stone-golem-all animations-224x192_99: -607374514
+      Stone-golem-all animations-224x192_72: -706750434
+      Stone-golem-all animations-224x192_48: -1005287216
+      Stone-golem-all animations-224x192_127: -538355056
+      Stone-golem-all animations-224x192_6: -568427865
+      Stone-golem-all animations-224x192_126: -1580091645
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
