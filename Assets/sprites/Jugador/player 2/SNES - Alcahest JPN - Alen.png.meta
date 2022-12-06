@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -7387,13 +7387,13 @@ TextureImporter:
       SNES - Alcahest JPN - Alen_231: -1223822432
       SNES - Alcahest JPN - Alen_291: -677340009
       SNES - Alcahest JPN - Alen_172: 168317901
-      SNES - Alcahest JPN - Alen_210: -2082580403
+      SNES - Alcahest JPN - Alen_249: -427741090
       SNES - Alcahest JPN - Alen_205: -1270123271
       SNES - Alcahest JPN - Alen_518: -121450702
       SNES - Alcahest JPN - Alen_514: -126563897
       SNES - Alcahest JPN - Alen_159: -2002839693
       SNES - Alcahest JPN - Alen_419: 498655396
-      SNES - Alcahest JPN - Alen_249: -427741090
+      SNES - Alcahest JPN - Alen_210: -2082580403
       SNES - Alcahest JPN - Alen_320: 672188388
       SNES - Alcahest JPN - Alen_181: -1356806545
       SNES - Alcahest JPN - Alen_102: -1744063367
@@ -7453,10 +7453,10 @@ TextureImporter:
       SNES - Alcahest JPN - Alen_260: -821044713
       SNES - Alcahest JPN - Alen_339: -223483380
       SNES - Alcahest JPN - Alen_318: 381065045
-      SNES - Alcahest JPN - Alen_105: -613170627
+      SNES - Alcahest JPN - Alen_374: 1323157477
       SNES - Alcahest JPN - Alen_144: 1672599008
       SNES - Alcahest JPN - Alen_55: -590741216
-      SNES - Alcahest JPN - Alen_374: 1323157477
+      SNES - Alcahest JPN - Alen_105: -613170627
       SNES - Alcahest JPN - Alen_213: 1147052552
       SNES - Alcahest JPN - Alen_198: 1020674028
       SNES - Alcahest JPN - Alen_488: 29374300
